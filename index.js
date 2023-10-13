@@ -1,11 +1,15 @@
 // Write your code here!
 // Create a div element
+
+
 const element = document.createElement("div");
 
 // Append the div element to the body
+
 document.body.append(element);
 
 // Create an unordered list
+
 const ul = document.createElement("ul");
 
 // Append list items to the unordered list
